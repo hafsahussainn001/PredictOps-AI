@@ -1,0 +1,9 @@
+{
+    "selected_model": "Tuned Random Forest",
+    "threshold": 0.4528303803669425,
+    "accuracy": 0.987,
+    "precision": 0.8387096774193549,
+    "recall": 0.7647058823529411,
+    "f1": 0.8,
+    "pr_auc": 0.8332554119648719
+}

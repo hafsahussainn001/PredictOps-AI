@@ -1,0 +1,25 @@
+{
+    "model_name": "Tuned Random Forest",
+    "threshold": 0.4528303803669425,
+    "features": [
+        "Air temperature [K]",
+        "Process temperature [K]",
+        "Rotational speed [rpm]",
+        "Torque [Nm]",
+        "Tool wear [min]",
+        "Type"
+    ],
+    "numeric_features": [
+        "Air temperature [K]",
+        "Process temperature [K]",
+        "Rotational speed [rpm]",
+        "Torque [Nm]",
+        "Tool wear [min]"
+    ],
+    "categorical_features": [
+        "Type"
+    ],
+    "target": "Machine failure",
+    "random_state": 42,
+    "dataset": "AI4I 2020 Predictive Maintenance Dataset (UCI ID 601)"
+}
